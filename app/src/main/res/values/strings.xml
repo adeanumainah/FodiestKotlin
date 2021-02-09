@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">FodiestKotlin</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_location">Location</string>
+    <string name="nav_home">Home</string>
+    <string name="store">SYDNEY CBD</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="see_all">See all</string>
+    <string name="lable_hint">Search for Restaurant</string>
+    <string name="lable_name">Name</string>
+    <string name="lable_address">Address</string>
+    <string name="lable_kind">kind</string>
+    <string name="lable_desc">Desc</string>
+    <string name="popular">Popular</string>
+    <string name="cake">Cake</string>
+    <string name="indiacussion">India Cussion</string>
+    <string name="asiancussion">Asian Cussion</string>
+    <string name="macaron">Makaron</string>
+    <string name="waffle">Waffle</string>
+    <string name="pancake">Pancake</string>
+    <string name="grilled_donuts">Grilled Donuts</string>
+    <string name="turkish_kebabs">Turkish Kebab</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="title">Title</string>
+    <string name="seafood">Seafood</string>
+
+    <string-array name="data_food">
+        <item>Cumi Rica</item>
+        <item>Gado Gado</item>
+        <item>Sop Iga</item>
+        <item>Kebab</item>
+        <item>Rendang</item>
+        <item>Soto Lamongan</item>
+
+    </string-array>
+
+    <string-array name="data_addres">
+        <item>RM Asih Jaya Putra</item>
+        <item>Resto Gado Gado Prima</item>
+        <item>Rumah Makan Sop Iga</item>
+        <item>Doner Kebab</item>
+        <item>Sari Rendang Resto</item>
+        <item>Akuarium Resto</item>
+
+    </string-array>
+
+    <string-array name="data_kind">
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Snack</item>
+        <item>Main Course</item>
+        <item>Main Course</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Rica-Rica atau terkadang hanya disebut rica adalah jenis bumbu pedas yang ditemukan di masakan Manado dari Sulawesi Utara, Indonesia. Rica-Rica banyak menggunakan potongan cabai, cabai rawit, bawang merah, bawang putih, jahe, garam, dan gula. Semua bahan-bahan tersebut dimasak denga minyak kelapa dan dicampur dengan daun jeruk, serai, dan air jeruk nipis.</item>
+        <item>Gado Gado adalah salah satu makanan yang berasal dari Indonesia yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu atau saus dari kacang tanah yang dihaluskan disertai irisan telur dan di atasnya ditaburkan bawang goreng dan sedikit emping goreng juga kerupuk ada juga yang memakai kerupuk udang.Gado-Gado dapat dimakan begitu saja seperti salad dengan bumbu/saus kacang, tapi juga dapat dimakan beserta nasi putih.</item>
+        <item>Daging Iga Sapi atau rib adalah bagian daging sapi yang berasal dari daging di sekitar tulang iga atau tulang rusuk. Bagian ini termasuk dari delapan bagian utama daging sapi yang biasa dikonsumsi. Seluruh bagian daging iga ini bisa terdiri dari beberapa iga, mulai dari iga ke 6 sampai dengan iga ke- 12; untuk potongan daging iga yang akan dikonsumsi bisa terdiri dari 2 sampai dengan 7 tulang iga.Tulang iga, atau short ribs, biasa diolah menjadi sop seperti sop konro. Bisa juga dimasak semur, dipanggang.Rib-eye steak adalah potongan dalam bentuk steak, bisa dengan tulang (bone in) atau tanpa tulang (boneless). Biasanya bagian ini digunakan sebagai bahan dasar makanan khas Makassar, sup konro.</item>
+        <item>Kebab adalah penganan cepat saji terdiri atas daging sapi yang dipanggang seperti satai kemudian diiris-iris ditambah dengan sayuran segar dan mayones, lalu dibalut dengan kulit tortila.[1] Hidangan ini umum dijumpai dalam masakan Laut Tengah, masakan Kaukasus, masakan Asia Tengah, masakan Asia Selatan, masakan Asia Tenggara, dan masakan beberapa negara Afrika.Daging yang umum dipakai untuk kebab adalah daging domba dan daging sapi, atau kadang-kadang daging kambing, daging ayam, ikan, atau kerang. Kebab daging babi dikenal dalam masakan Azerbaijan, Bulgaria, Siprus, Yunani, dan negara bagian Goa di India.</item>
+        <item>Rendang adalah masakan daging dengan bumbu rempah-rempah yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak yang dipanaskan berulang-ulang menggunakan santan sampai kuahnya kering sama sekali. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan.</item>
+        <item>Soto Lamongan adalah soto khas Lamongan, Jawa Timur, yang saat ini telah menyebar ke berbagai daerah di Indonesia.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/cumi_rica</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/sop_iga</item>
+        <item>@drawable/kebab</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/soto_lamongan</item>
+
+
+    </array>
+</resources>
